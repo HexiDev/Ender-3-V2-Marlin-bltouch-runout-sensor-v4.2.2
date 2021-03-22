@@ -1,0 +1,15 @@
+[general]
+version = 4
+name = creality_base_extruder_0 #3_user
+definition = creality_ender3pro
+
+[metadata]
+setting_version = 16
+extruder = creality_base_extruder_0 #3
+type = user
+
+[values]
+brim_gap = 0
+raft_margin = 5
+raft_surface_layers = 1
+
